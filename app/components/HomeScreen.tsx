@@ -347,7 +347,7 @@ export default function HomeScreen({
           h-full
           object-cover
         "
-        src="/背景動画.MP4"
+        src="/背景動画.mp4"
         autoPlay
         muted
         loop
