@@ -16,7 +16,7 @@ const recipeList: Recipe[] = [
   { id: 1, title: "あさり味噌汁でぐっすり快眠", image: "/あさり味噌汁でぐっすり快眠.png" },
   { id: 2, title: "ウズラの卵", image: "/ウズラの卵.jpg" },
   { id: 3, title: "カニ缶とアボカドの栄養サラダ", image: "/カニ缶とアボカドの栄養サラダ.png" },
-  { id: 4, title: "かわいいわかめスープ", image: "/かわいいわかめスープレシピ帖.png" },
+  { id: 4, title: "わかめスープ", image: "/かわいいわかめスープレシピ帖.png" },
   { id: 5, title: "とうもろこしで体すっきり", image: "/とうもろこしで体すっきり健康ガイド.png" },
   { id: 6, title: "ほうれん草とツナの中華炒め", image: "/ほうれん草とツナの中華炒めレシピ.png" },
   { id: 7, title: "ラタトゥイユ", image: "/ラタトゥイユ.jpg" },
